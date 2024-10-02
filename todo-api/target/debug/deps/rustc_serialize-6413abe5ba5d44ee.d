@@ -1,0 +1,10 @@
+C:\Users\danie\Desktop\Terra Magna\CRUD_1\todo-api\target\debug\deps\librustc_serialize-6413abe5ba5d44ee.rmeta: C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs
+
+C:\Users\danie\Desktop\Terra Magna\CRUD_1\todo-api\target\debug\deps\rustc_serialize-6413abe5ba5d44ee.d: C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs
+
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs:
+C:\Users\danie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs:

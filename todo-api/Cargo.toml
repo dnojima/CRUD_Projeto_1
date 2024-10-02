@@ -1,0 +1,13 @@
+[package]
+name = "todo-api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1", features = ["full"] }
+firebase = "0.9.1" # Atualize para a versão mais recente se disponível
+uuid = { version = "1", features = ["v4"] }
+reqwest = { version = "0.11", default-features = false, features = ["json", "rustls-tls"] }
