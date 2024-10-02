@@ -21,7 +21,7 @@ async fn main() {
         .expect("Erro ao ler o arquivo JSON");
 
     // Conectar ao Firebase
-    let firebase = Firebase::new("https://<seu-projeto>.firebaseio.com/")
+    let firebase = Firebase::new("https://crud.firebaseio.com/")
         .unwrap()
         .auth(Some(service_account_key))
         .await
